@@ -1,0 +1,7 @@
+{
+  "name": "Chantify: Spiritual Mantra & Wellness",
+  "description": "A beginner-friendly app to help users chant mantras, track their sessions, access spiritual content, and enhance their wellness journey. Features manual and voice-activated chant counting, a spiritual content feed, and a daily horoscope.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
